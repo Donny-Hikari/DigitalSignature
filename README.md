@@ -13,5 +13,15 @@
 ## 签名函数
 与前两者比较起来，签名函数是最轻松的。基本没遇到什么问题，按着公式顺利解决。  
 
+## Screenshots / 截屏
+Load key and verify signature:  
+![VerifySign](/docs/hashCode&verifyFunctionPass.png "Load key and verify signature.")
+
+Generate key & Get hash value of file:  
+![KeyAndHash](/docs/generateKey&getHashVal.png "Generate key & Get hash value of file.")
+
+Signature & Verify:  
+![SignAndVerify](/docs/signature&verify.png "Signature & Verify.")
+
 ## Author / 作者
 [![Donny](https://avatars.githubusercontent.com/u/22200374?v=3&s=150 "Donny")](https://github.com/Donny-Hikari)
